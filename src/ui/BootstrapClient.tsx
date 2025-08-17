@@ -1,7 +1,5 @@
 "use client";
 
-type Props = {};
-
-export default function BootstrapClient({}: Props) {
+export default function BootstrapClient() {
   return <div></div>;
 }
